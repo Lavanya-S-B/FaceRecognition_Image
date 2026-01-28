@@ -1,0 +1,12 @@
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.DS_Store
+.env/
+# Ignore Python virtual environment
+venv/
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
